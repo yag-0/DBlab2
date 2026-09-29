@@ -30,7 +30,7 @@ ORDER BY c.category_name, p.product_name;
 
 **Результат виконання:**
 ```
--- ![alt text](image.png)
+![alt text](image.png)
 
 ```
 
@@ -69,7 +69,7 @@ ORDER BY order_count DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-1.png)
+![alt text](image-1.png)
 
 ```
 
@@ -109,7 +109,7 @@ ORDER BY o.order_date DESC, o.order_id;
 
 **Результат виконання:**
 ```
--- ![alt text](image-2.png)
+![alt text](image-2.png)
 
 ```
 
@@ -143,7 +143,7 @@ ORDER BY product_count DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-3.png)
+![alt text](image-3.png)
 
 ```
 
@@ -166,7 +166,7 @@ ORDER BY total_sales DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-4.png)
+![alt text](image-4.png)
 
 ```
 
@@ -187,7 +187,7 @@ ORDER BY product_count DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-5.png)
+![alt text](image-5.png)
 
 ```
 
@@ -215,7 +215,7 @@ ORDER BY c.category_name, p.unit_price DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-6.png)
+![alt text](image-6.png)
 
 ```
 
@@ -270,7 +270,7 @@ ORDER BY total_units_sold DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-7.png)
+![alt text](image-7.png)
 
 ```
 
@@ -296,7 +296,7 @@ ORDER BY products_count DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-8.png)
+![alt text](image-8.png)
 
 ```
 
@@ -316,7 +316,7 @@ ORDER BY manager, employee;
 
 **Результат виконання:**
 ```
--- ![alt text](image-9.png)
+![alt text](image-9.png)
 
 ```
 
@@ -342,7 +342,7 @@ ORDER BY c.category_name, p.unit_price DESC;
 
 **Результат виконання:**
 ```
--- ![alt text](image-10.png)
+![alt text](image-10.png)
 
 ```
 
@@ -364,7 +364,7 @@ ORDER BY customer_id, order_date;
 
 **Результат виконання:**
 ```
--- ![alt text](image-11.png)
+![alt text](image-11.png)
 
 ```
 
@@ -447,7 +447,7 @@ ORDER BY hierarchy_path;
 
 **Результат виконання:**
 ```
--- ![alt text](image-12.png)
+![alt text](image-12.png)
 
 ```
 
@@ -494,7 +494,7 @@ SELECT * FROM get_sales_analytics('2024-01-01', '2024-12-31', 1);
 
 **Результат виконання:**
 ```
--- ![alt text](image-13.png)
+![alt text](image-13.png)
 
 ```
 
